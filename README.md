@@ -1,4 +1,4 @@
-# Challenge 2 - CV19
+# COVID19
 
 ## Intro
 
@@ -8,7 +8,7 @@ Se pueden tener varios "Clientes" que pueden realizar la carga de los casos, est
 Por otro lado, sólo puede haber un "Admin" que es el que puede realizar las consultas de los datos.
 
 
-Representación del sistema:
+Representación del sistema:  
 ![diagrama](cv19.PNG)
 
 ## Características
